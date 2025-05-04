@@ -1,0 +1,6 @@
+torch
+torchvision
+coremltools
+psutil
+numpy
+pillow
